@@ -1,8 +1,8 @@
-esp-ir-tv
+esp-ir- PHILIPS TV
 =========
 
 HomeKit device for PHILIPS TV RC-6 control.
-This project is a fork of Maxim Kulkin's example 
+This project is a fork of a Maxim Kulkin's example 
 
 License
 =======
