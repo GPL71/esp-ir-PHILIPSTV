@@ -4,17 +4,17 @@
 
 
 static ir_generic_config_t protocol = {
-    .header_mark = 9000,
-    .header_space = -4500,
+    .header_mark = 2666,
+    .header_space = 889,
 
-    .bit1_mark = 560,
-    .bit1_space = -1690,
+    .bit1_mark = 444,
+    .bit1_space = 444,
 
-    .bit0_mark = 560,
-    .bit0_space = -560,
+    .bit0_mark = 889,
+    .bit0_space = 889,
 
     .footer_mark = 560,
-    .footer_space = -9000,
+    .footer_space = 889,
 
     .tolerance = 20,
 };
