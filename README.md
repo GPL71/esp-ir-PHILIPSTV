@@ -1,7 +1,8 @@
 esp-ir-tv
 =========
 
-Example of HomeKit device that controls TV by Insignia.
+HomeKit device for PHILIPS TV RC-6 control.
+This project is a fork of Maxim Kulkin's example 
 
 License
 =======
